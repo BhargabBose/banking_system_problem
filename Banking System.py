@@ -1,7 +1,7 @@
 #Q3) Design a banking system. Make global tuples array of structure (AccountNum, Balance)
 #When you run the code, it should show a start screen like this
 #===============================
-#	   Boss Man Bank
+#	   Boss Man Banker
 #===============================
 # Choose Option:
 #1) View Balance
