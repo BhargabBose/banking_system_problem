@@ -12,6 +12,7 @@
 #Notes: Make seperate functions for each option. And dont fuck it up. Don't forget to initialize with your account/
 
 # Made by Bhargab "BossMan" Bose
+# Licence Open-source
 
 Dict = dict({"AccountNum":1, "Balance":69 })     # Learn the use of Dictionary
 
