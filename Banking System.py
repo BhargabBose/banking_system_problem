@@ -3,7 +3,7 @@
 #===============================
 #	   Boss Man Bank
 #===============================
-#Choose Option:
+# Choose Option:
 #1) View Balance
 #2) Deposit Money <-- Just an input so don't really care
 #3) Withdraw Money
@@ -42,7 +42,7 @@ def Start_Screen():
     print("===============================")
     print("         Boss Man Bank         ")
     print("===============================")
-    print("Choose an Option:")
+    print("Choose an Option from the list below:")
     print("1) View Balance")
     print("2) Deposit Money")
     print("3) Withdraw Money")
